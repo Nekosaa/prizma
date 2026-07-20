@@ -1,0 +1,5 @@
+"""Prizma Studio – core package."""
+__version__ = "1.0.0"
+__author__ = "MurKasKaa"
+__app_name__ = "Prizma Studio"
+__exe_name__ = "PrizmaStudio"

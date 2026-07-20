@@ -15,6 +15,7 @@ DEFAULTS: dict[str, Any] = {
     "psd_out_dir": str(Path.home()),
     "smart_object_depth": 3,
     "window_geometry": "1200x760",
+    "recent_files": [],
 }
 
 

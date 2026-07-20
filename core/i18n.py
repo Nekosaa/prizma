@@ -110,6 +110,22 @@ STRINGS: dict[str, dict[str, str]] = {
     # Errors ---------------------------------------------------------------
     "error.title":          {"ru": "Ошибка",                            "en": "Error"},
     "info.title":           {"ru": "Информация",                        "en": "Information"},
+
+    # Modern UI: Sidebar ---------------------------------------------------
+    "sidebar.recent":       {"ru": "Недавние файлы",                    "en": "Recent files"},
+    "sidebar.no_recent":    {"ru": "Пока ничего нет",                   "en": "Nothing yet"},
+    "sidebar.clear_recent": {"ru": "Очистить",                          "en": "Clear"},
+
+    # Modern UI: Welcome screen -------------------------------------------
+    "welcome.open_pdf":     {"ru": "Открыть PDF",                       "en": "Open PDF"},
+    "welcome.open_psd":     {"ru": "Открыть PSD",                       "en": "Open PSD"},
+    "welcome.drop_hint":    {"ru": "или перетащите файлы сюда",         "en": "or drop files here"},
+
+    # Modern UI: Top bar ---------------------------------------------------
+    "topbar.pdf":           {"ru": "PDF",                               "en": "PDF"},
+    "topbar.psd":           {"ru": "PSD",                               "en": "PSD"},
+    "topbar.settings":      {"ru": "Настройки",                         "en": "Settings"},
+    "topbar.about":         {"ru": "О программе",                       "en": "About"},
 }
 
 
